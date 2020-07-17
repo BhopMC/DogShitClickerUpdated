@@ -1,0 +1,25 @@
+C:\Users\Topsmoks\source\repos\shit temple\shit temple\bin\Debug\shit temple.exe.config
+C:\Users\Topsmoks\source\repos\shit temple\shit temple\bin\Debug\shit temple.exe
+C:\Users\Topsmoks\source\repos\shit temple\shit temple\bin\Debug\shit temple.pdb
+C:\Users\Topsmoks\source\repos\shit temple\shit temple\bin\Debug\shit temple.xml
+C:\Users\Topsmoks\source\repos\shit temple\shit temple\obj\Debug\shit temple.vbprojAssemblyReference.cache
+C:\Users\Topsmoks\source\repos\shit temple\shit temple\obj\Debug\shit_temple.Loader.resources
+C:\Users\Topsmoks\source\repos\shit temple\shit temple\obj\Debug\shit_temple.Resources.resources
+C:\Users\Topsmoks\source\repos\shit temple\shit temple\obj\Debug\shit temple.vbproj.GenerateResource.cache
+C:\Users\Topsmoks\source\repos\shit temple\shit temple\obj\Debug\shit temple.vbproj.CoreCompileInputs.cache
+C:\Users\Topsmoks\source\repos\shit temple\shit temple\obj\Debug\shit temple.exe
+C:\Users\Topsmoks\source\repos\shit temple\shit temple\obj\Debug\shit temple.xml
+C:\Users\Topsmoks\source\repos\shit temple\shit temple\obj\Debug\shit temple.pdb
+C:\Users\Topsmoks\source\repos\shit temple\shit temple\obj\Debug\shit_temple.ac.resources
+C:\Users\topsm\Desktop\DogShitClicker-master\shit temple\bin\Debug\dogshitclicker.exe.config
+C:\Users\topsm\Desktop\DogShitClicker-master\shit temple\bin\Debug\dogshitclicker.exe
+C:\Users\topsm\Desktop\DogShitClicker-master\shit temple\bin\Debug\dogshitclicker.pdb
+C:\Users\topsm\Desktop\DogShitClicker-master\shit temple\bin\Debug\dogshitclicker.xml
+C:\Users\topsm\Desktop\DogShitClicker-master\shit temple\obj\Debug\shit temple.vbprojAssemblyReference.cache
+C:\Users\topsm\Desktop\DogShitClicker-master\shit temple\obj\Debug\dogshit.ac.resources
+C:\Users\topsm\Desktop\DogShitClicker-master\shit temple\obj\Debug\dogshit.Resources.resources
+C:\Users\topsm\Desktop\DogShitClicker-master\shit temple\obj\Debug\shit temple.vbproj.GenerateResource.cache
+C:\Users\topsm\Desktop\DogShitClicker-master\shit temple\obj\Debug\shit temple.vbproj.CoreCompileInputs.cache
+C:\Users\topsm\Desktop\DogShitClicker-master\shit temple\obj\Debug\dogshitclicker.exe
+C:\Users\topsm\Desktop\DogShitClicker-master\shit temple\obj\Debug\dogshitclicker.xml
+C:\Users\topsm\Desktop\DogShitClicker-master\shit temple\obj\Debug\dogshitclicker.pdb
